@@ -6,7 +6,6 @@ body {
     margin: 0;
     padding: 50px;
 }
-//adding
 
 /* Heading */
 h1 {
@@ -14,7 +13,7 @@ h1 {
     font-size: 40px;
 }
 
-/* Paragraph */
+
 p {
     color: #666666;
     font-size: 18px;
