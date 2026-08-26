@@ -13,7 +13,7 @@ h1 {
     font-size: 40px;
 }
 
-/* Paragraph */
+
 p {
     color: #666666;
     font-size: 18px;
